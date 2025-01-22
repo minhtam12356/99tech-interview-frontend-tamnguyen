@@ -1,1 +1,0 @@
-# 99tech-interview-frontend-tamnguyen
